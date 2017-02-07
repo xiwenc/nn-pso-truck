@@ -1,3 +1,6 @@
+Made available on Github (not tested)
+Video of a trained system at https://www.youtube.com/watch?v=J_QZrTARB8A
+
 Introduction
 ==
 
@@ -16,6 +19,7 @@ Included in the .tar.gz you'll find refman.pdf which is the doxygen generated do
 
 Parameters
 ==
+```
 Usage: ./dist/Debug/GNU-Linux-x86/trunk
     Options:
     -d INTEGER  Debug level, 0-4
@@ -27,6 +31,7 @@ Usage: ./dist/Debug/GNU-Linux-x86/trunk
     -p INTEGER  Number particles per Swarm, 1 or more
     -a INTEGER  Show global best after every iteration, 1 or 0
     -x FLOAT    Target x-value
+```
 
 License
 ==
@@ -37,6 +42,7 @@ Please also note that part of this project was taken from a previous project whi
 Instructions
 ==
 
+```
 # there shouldn't be any exotic libraries you need to solve manually
 
 # First you need to build Box2D:
@@ -56,4 +62,4 @@ doxygen doxy.cfg
 cd docs/latex
 make && make
 cp refman.pdf ../../docs/
-
+```
