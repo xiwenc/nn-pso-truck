@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="69">
+  <logicalFolder name="root" displayName="root" projectFiles="true">
+    <df name="barry" root=".">
+      <df name=".svn">
+        <df name="prop-base" kind="SOURCE_LOGICAL_FOLDER">
+        </df>
+        <df name="props" kind="SOURCE_LOGICAL_FOLDER">
+        </df>
+        <df name="text-base" kind="SOURCE_LOGICAL_FOLDER">
+        </df>
+        <df name="tmp" kind="SOURCE_LOGICAL_FOLDER">
+          <df name="prop-base" kind="SOURCE_LOGICAL_FOLDER">
+          </df>
+          <df name="props" kind="SOURCE_LOGICAL_FOLDER">
+          </df>
+          <df name="text-base" kind="SOURCE_LOGICAL_FOLDER">
+          </df>
+        </df>
+        <in>entries</in>
+      </df>
+      <df name="Background" kind="SOURCE_LOGICAL_FOLDER">
+        <in>background.cpp</in>
+        <in>background.h</in>
+        <in>main.cpp</in>
+      </df>
+      <df name="Framework" kind="SOURCE_LOGICAL_FOLDER">
+        <in>FileHandler.cpp</in>
+        <in>FileHandler.h</in>
+        <in>Main.cpp</in>
+        <in>Neural.cpp</in>
+        <in>Neural.h</in>
+        <in>Render.cpp</in>
+        <in>Render.h</in>
+        <in>SbiRobotFactory.cpp</in>
+        <in>SbiRobotFactory.h</in>
+        <in>Test.cpp</in>
+        <in>Test.h</in>
+      </df>
+      <df name="PSO" kind="SOURCE_LOGICAL_FOLDER">
+        <in>definitions.h</in>
+        <in>main.cpp</in>
+        <in>math.cpp</in>
+        <in>math.h</in>
+        <in>particle.cpp</in>
+        <in>particle.h</in>
+        <in>pso.cpp</in>
+        <in>pso.h</in>
+        <in>vec.cpp</in>
+        <in>vec.h</in>
+      </df>
+      <df name="Tests" kind="SOURCE_LOGICAL_FOLDER">
+        <in>ApplyForce.h</in>
+        <in>Biped.cpp</in>
+        <in>Biped.h</in>
+        <in>BipedDef.cpp</in>
+        <in>BipedDef.h</in>
+        <in>BipedTest.h</in>
+        <in>Bridge.h</in>
+        <in>BroadPhaseTest.cpp</in>
+        <in>BroadPhaseTest.h</in>
+        <in>CCDTest.h</in>
+        <in>Car.h</in>
+        <in>Chain.h</in>
+        <in>CollisionFiltering.h</in>
+        <in>CollisionProcessing.h</in>
+        <in>CompoundShapes.h</in>
+        <in>ContactCallbackTest.h</in>
+        <in>DistanceTest.h</in>
+        <in>Dominos.h</in>
+        <in>ElasticBody.h</in>
+        <in>Gears.h</in>
+        <in>MotorsAndLimits.h</in>
+        <in>PolyCollision.h</in>
+        <in>PolyShapes.h</in>
+        <in>Pulleys.h</in>
+        <in>Pyramid.h</in>
+        <in>SensorTest.h</in>
+        <in>ShapeEditing.h</in>
+        <in>SliderCrank.h</in>
+        <in>TestEntries.cpp</in>
+        <in>TheoJansen.h</in>
+        <in>TimeOfImpact.h</in>
+        <in>VaryingFriction.h</in>
+        <in>VaryingRestitution.h</in>
+        <in>VerticalStack.h</in>
+        <in>Web.h</in>
+        <in>sbi.h</in>
+      </df>
+      <in>HelloWorld.cpp</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+      <itemPath>Makefile-barry.mk</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile-barry.mk</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <compilerSet>GNU|GNU</compilerSet>
+        <platform>2</platform>
+      </toolsSet>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>PSO</buildCommandWorkingDir>
+          <buildCommand>$(MAKE) -f Makefile</buildCommand>
+          <cleanCommand>$(MAKE) -f Makefile clean</cleanCommand>
+          <executablePath>PSO/pso</executablePath>
+          <ccTool>
+            <incDir>
+              <pElem>../Box2D/Include</pElem>
+              <pElem>../Box2D/Contrib</pElem>
+            </incDir>
+            <preprocessorList>
+              <Elem>GLUI_FREEGLUT</Elem>
+            </preprocessorList>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+      <item path="Background/main.cpp" ex="true" tool="1">
+      </item>
+      <item path="Framework/Main.cpp" ex="true" tool="1">
+      </item>
+      <item path="Tests/ApplyForce.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/BipedTest.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/Bridge.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/CCDTest.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/Car.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/Chain.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/CollisionFiltering.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/CollisionProcessing.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/CompoundShapes.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/ContactCallbackTest.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/DistanceTest.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/Dominos.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/ElasticBody.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/Gears.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/MotorsAndLimits.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/PolyCollision.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/PolyShapes.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/Pulleys.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/Pyramid.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/SensorTest.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/ShapeEditing.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/SliderCrank.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/TheoJansen.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/TimeOfImpact.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/VaryingFriction.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/VaryingRestitution.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/VerticalStack.h" ex="true" tool="3">
+      </item>
+      <item path="Tests/Web.h" ex="true" tool="3">
+      </item>
+      <folder path="barry/Background">
+        <ccTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="barry/Framework">
+        <ccTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="barry/PSO">
+        <ccTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="barry/Tests">
+        <ccTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+    </conf>
+  </confs>
+</configurationDescriptor>

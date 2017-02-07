@@ -1,0 +1,48 @@
+\begin{thebibliography}{1}
+
+\bibitem{ACK87}
+D.~H. Ackley.
+\newblock {\em A connectionist machine for genetic hillclimbing}.
+\newblock Kluwer, Boston, 1987.
+
+\bibitem{BAC96}
+T.~B{\"{a}}ck.
+\newblock {\em Evolutionary algorithms in theory and practice}.
+\newblock Oxford University Press, 1996.
+
+\bibitem{KEN95}
+J.~Kennedy and R.~Eberhart.
+\newblock {Particle swarm optimization}.
+\newblock In {\em Neural Networks, 1995. Proceedings., IEEE International
+  Conference on}, volume~4, pages 1942--1948, August 2002.
+
+\bibitem{LOC03}
+M.~Locatelli.
+\newblock A note on the griewank test function.
+\newblock {\em J. of Global Optimization}, 25:169--174, February 2003.
+
+\bibitem{MUL73}
+A.~Mulawa and M.~Machura.
+\newblock Algorithm 450: Rosenbrock function minimization.
+\newblock {\em Commun. ACM}, 16:482--483, August 1973.
+
+\bibitem{MUH91}
+H.~Mühlenbein, M.~Schomisch, and J.~Born.
+\newblock The parallel genetic algorithm as function optimizer.
+\newblock {\em Parallel Computing}, 17(6-7):619 -- 632, 1991.
+
+\bibitem{SET052}
+M.~Settles, P.~Nathan, and T.~Soule.
+\newblock Breeding swarms: a new approach to recurrent neural network training.
+\newblock In {\em Proceedings of the 2005 conference on Genetic and
+  evolutionary computation}, GECCO '05, pages 185--192, New York, NY, USA,
+  2005. ACM.
+
+\bibitem{SET05}
+M.~Settles and T.~Soule.
+\newblock Breeding swarms: a ga/pso hybrid.
+\newblock In {\em Proceedings of the 2005 conference on Genetic and
+  evolutionary computation}, GECCO '05, pages 161--168, New York, NY, USA,
+  2005. ACM.
+
+\end{thebibliography}

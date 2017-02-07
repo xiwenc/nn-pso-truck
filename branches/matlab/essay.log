@@ -1,0 +1,717 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2010.11.7)  30 DEC 2010 18:10
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**essay.tex
+(./essay.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, farsi, finnish, french,
+ galician, german, ngerman, swissgerman, monogreek, greek, hungarian, icelandic
+, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, oriya, panja
+bi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji, lao, lati
+n, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, polish, portu
+guese, romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedis
+h, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded.
+(./acm_proc_article-sp.cls (/usr/share/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/09/14 v0.05b Graphics/color for pdfTeX
+\Gread@gobject=\count79
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+\epsfxsize=\dimen104
+\epsfysize=\dimen105
+)
+(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip41
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen106
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen107
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count80
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count81
+\leftroot@=\count82
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count83
+\DOTSCASE@=\count84
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count85
+\c@MaxMatrixCols=\count86
+\dotsspace@=\muskip10
+\c@parentequation=\count87
+\dspbrk@lvl=\count88
+\tag@help=\toks17
+\row@=\count89
+\column@=\count90
+\maxfields@=\count91
+\andhelp@=\toks18
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks19
+\multlinegap=\skip42
+\multlinetaggap=\skip43
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+Document Class 'acm_proc_article-sp' <22nd. April '09>. Modified by G.K.M. Tobi
+n
+Based in part upon document Style `acmconf' <22 May 89>. Hacked 4/91 by
+shivers@cs.cmu.edu, 4/93 by theobald@cs.mcgill.ca
+Excerpts were taken from (Journal Style) 'esub2acm.cls'.
+****** Bugs/comments/suggestions to Gerry Murray -- murray@hq.acm.org ******
+\footheight=\dimen115
+\@maxsep=\dimen116
+\@dblmaxsep=\dimen117
+\aucount=\count92
+\originalaucount=\count93
+\auwidth=\dimen118
+\auskip=\dimen119
+\auskipcount=\count94
+\auskip=\dimen120
+\allauboxes=\dimen121
+\addauthors=\toks21
+\addauflag=\count95
+\subtitletext=\toks22
+\savesection=\count96
+\sectioncntr=\count97
+\c@figure=\count98
+\c@table=\count99
+\titleboxnotes=\toks23
+\titleboxnoteflag=\count100
+Document Class: acm_proc_article-sp 2009/04/22 - V3.2SP - based on esub2acm.sty
+ <23 April 96>
+(/usr/share/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+\@acmtitlebox=\box28
+\titlenotecount=\count101
+\tntoks=\toks24
+\tntokstwo=\toks25
+\tntoksthree=\toks26
+\tntoksfour=\toks27
+\tntoksfive=\toks28
+\catcount=\count102
+\copyrightnotice=\toks29
+\conf=\toks30
+\confinfo=\toks31
+\c@part=\count103
+\c@section=\count104
+\c@subsection=\count105
+\c@subsubsection=\count106
+\c@paragraph=\count107
+
+Using 'Abbrev' bibliography style
+LaTeX Info: Redefining \cite on input line 1236.
+\bibindent=\dimen122
+\colcntr=\count108
+\saveb@x=\box29
+\copyrtyr=\toks32
+\acmcopyr=\toks33
+\boilerplate=\toks34
+\copyrightetc=\toks35
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
+
+(/usr/share/texmf-dist/tex/latex/ae/t1aer.fd
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)))
+(/usr/share/texmf-dist/tex/latex/preprint/balance.sty
+Package: balance 1999/02/23 4.3 (PWD)
+\oldvsize=\dimen123
+)
+(/usr/share/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@ALC@unique=\count109
+\c@ALC@line=\count110
+\c@ALC@rem=\count111
+\c@ALC@depth=\count112
+\ALC@tlm=\skip44
+\algorithmicindent=\skip45
+)
+(/usr/share/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count113
+\float@exts=\toks36
+\float@box=\box30
+\@float@everytoks=\toks37
+\@floatcapt=\box31
+)
+\@float@every@algorithm=\toks38
+\c@algorithm=\count114
+)
+(/usr/share/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen124
+\extrarowheight=\dimen125
+\NC@list=\toks39
+\extratabsurround=\skip46
+\backup@length=\skip47
+)
+\TX@col@width=\dimen126
+\TX@old@table=\dimen127
+\TX@old@col=\dimen128
+\TX@target=\dimen129
+\TX@delta=\dimen130
+\TX@cols=\count115
+\TX@ftn=\toks40
+)
+(/usr/share/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip48
+\subfigcapskip=\skip49
+\subfigcaptopadj=\dimen131
+\subfigbottomskip=\skip50
+\subfigcapmargin=\dimen132
+\subfiglabelskip=\skip51
+\c@subfigure=\count116
+\c@lofdepth=\count117
+\c@subtable=\count118
+\c@lotdepth=\count119
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip52
+\subfig@bottom=\skip53
+) (./essay.aux)
+\openout1 = `essay.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+(/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count120
+\scratchdimen=\dimen133
+\scratchbox=\box32
+\nofMPsegments=\count121
+\nofMParguments=\count122
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count123
+\MPscratchDim=\dimen134
+\MPnumerator=\count124
+\everyMPtoPDFconversion=\toks42
+) (/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2010/04/01 v0.9 Utility functions of pdfTeX for LuaTeX (HO)
+
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2010/04/26 v1.7 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2007/09/30 v1.0 Managing graphics extensions (HO)
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/02/22 v3.7 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2010/03/01 v1.9 Key value parser (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2010/01/28 v1.3 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 436.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 25.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 25.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 25.
+
+(/usr/share/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+
+ []
+
+
+Underfull \vbox (badness 3049) has occurred while \output is active []
+
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 72--86
+
+ []
+
+
+Overfull \hbox (18.15543pt too wide) in paragraph at lines 72--86
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--86
+
+ []
+
+
+Overfull \hbox (11.38069pt too wide) in paragraph at lines 109--110
+\T1/aer/m/n/9 GA has sev-eral types of op-er-a-tors. They are \T1/aer/m/it/9 se
+-lec-tion\T1/aer/m/n/9 , \T1/aer/m/it/9 crossover
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (8.85814pt too wide) in paragraph at lines 159--169
+[] 
+ []
+
+
+Overfull \hbox (5.23036pt too wide) in paragraph at lines 170--186
+[] 
+ []
+
+[2]
+Package epstopdf Info: Source file: <figbs.eps>
+(epstopdf)                    date: 2010-12-29 17:22:15
+(epstopdf)                    size: 55209 bytes
+(epstopdf)             Output file: <figbs-eps-converted-to.pdf>
+(epstopdf)                    date: 2010-12-29 17:52:52
+(epstopdf)                    size: 17965 bytes
+(epstopdf)             Command: <repstopdf --outfile=figbs-eps-converted-to.pdf
+ figbs.eps>
+(epstopdf)             \includegraphics on input line 189.
+Package epstopdf Info: Output file is already uptodate.
+ <figbs-eps-converted-to.pdf, id=21, 217.81375pt x 128.48pt>
+File: figbs-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figbs-eps-converted-to.pdf>
+Overfull \hbox (5.68266pt too wide) in paragraph at lines 219--246
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--250
+
+ []
+
+
+Overfull \hbox (95.07068pt too wide) in alignment at lines 259--259
+[][][] 
+ []
+
+[3 <./figbs-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <fig-ackley.eps>
+(epstopdf)                    date: 2010-12-30 02:55:47
+(epstopdf)                    size: 1827029 bytes
+(epstopdf)             Output file: <fig-ackley-eps-converted-to.pdf>
+(epstopdf)                    date: 2010-12-30 02:56:04
+(epstopdf)                    size: 336753 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig-ackley-eps-converted-t
+o.pdf fig-ackley.eps>
+(epstopdf)             \includegraphics on input line 275.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig-ackley-eps-converted-to.pdf, id=37, 485.815pt x 373.395pt>
+File: fig-ackley-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fig-ackley-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <fig-griewank.eps>
+(epstopdf)                    date: 2010-12-30 02:55:47
+(epstopdf)                    size: 1826872 bytes
+(epstopdf)             Output file: <fig-griewank-eps-converted-to.pdf>
+(epstopdf)                    date: 2010-12-30 02:56:10
+(epstopdf)                    size: 337888 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig-griewank-eps-converted
+-to.pdf fig-griewank.eps>
+(epstopdf)             \includegraphics on input line 288.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig-griewank-eps-converted-to.pdf, id=38, 488.82625pt x 373.395pt>
+File: fig-griewank-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fig-griewank-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <fig-rastrigrin.eps>
+(epstopdf)                    date: 2010-12-30 02:55:47
+(epstopdf)                    size: 1853331 bytes
+(epstopdf)             Output file: <fig-rastrigrin-eps-converted-to.pdf>
+(epstopdf)                    date: 2010-12-30 02:55:50
+(epstopdf)                    size: 354256 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig-rastrigrin-eps-convert
+ed-to.pdf fig-rastrigrin.eps>
+(epstopdf)             \includegraphics on input line 300.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig-rastrigrin-eps-converted-to.pdf, id=39, 485.815pt x 373.395pt>
+File: fig-rastrigrin-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fig-rastrigrin-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <fig-rosenbrock.eps>
+(epstopdf)                    date: 2010-12-30 02:55:48
+(epstopdf)                    size: 1819319 bytes
+(epstopdf)             Output file: <fig-rosenbrock-eps-converted-to.pdf>
+(epstopdf)                    date: 2010-12-30 02:55:56
+(epstopdf)                    size: 327036 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig-rosenbrock-eps-convert
+ed-to.pdf fig-rosenbrock.eps>
+(epstopdf)             \includegraphics on input line 312.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig-rosenbrock-eps-converted-to.pdf, id=40, 485.815pt x 373.395pt>
+File: fig-rosenbrock-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fig-rosenbrock-eps-converted-to.pdf>
+Underfull \hbox (badness 10000) in paragraph at lines 317--318
+
+ []
+
+[4 <./fig-ackley-eps-converted-to.pdf> <./fig-griewank-eps-converted-to.pdf> <.
+/fig-rastrigrin-eps-converted-to.pdf>]
+Overfull \hbox (5.67714pt too wide) in paragraph at lines 340--341
+\T1/aer/m/n/9 very be-gin-ning. The al-go-rithms be-gin to stag-nate very quick
+ly
+ []
+
+Package epstopdf Info: Source file: <output/obj_ackley-d200-s20-n40-all-mean.ep
+s>
+(epstopdf)                    date: 2010-12-30 17:26:25
+(epstopdf)                    size: 27579 bytes
+(epstopdf)             Output file: <output/obj_ackley-d200-s20-n40-all-mean-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2010-12-30 17:29:01
+(epstopdf)                    size: 8257 bytes
+(epstopdf)             Command: <repstopdf --outfile=output/obj_ackley-d200-s20
+-n40-all-mean-eps-converted-to.pdf output/obj_ackley-d200-s20-n40-all-mean.eps>
+
+(epstopdf)             \includegraphics on input line 355.
+Package epstopdf Info: Output file is already uptodate.
+
+<output/obj_ackley-d200-s20-n40-all-mean-eps-converted-to.pdf, id=63, 503.8825p
+t x 394.47375pt>
+File: output/obj_ackley-d200-s20-n40-all-mean-eps-converted-to.pdf Graphic file
+ (type pdf)
+
+<use output/obj_ackley-d200-s20-n40-all-mean-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <output/obj_ackley-d200-s20-n40-all-std.eps
+>
+(epstopdf)                    date: 2010-12-30 17:26:26
+(epstopdf)                    size: 21180 bytes
+(epstopdf)             Output file: <output/obj_ackley-d200-s20-n40-all-std-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2010-12-30 17:29:02
+(epstopdf)                    size: 7820 bytes
+(epstopdf)             Command: <repstopdf --outfile=output/obj_ackley-d200-s20
+-n40-all-std-eps-converted-to.pdf output/obj_ackley-d200-s20-n40-all-std.eps>
+(epstopdf)             \includegraphics on input line 355.
+Package epstopdf Info: Output file is already uptodate.
+
+<output/obj_ackley-d200-s20-n40-all-std-eps-converted-to.pdf, id=64, 500.87125p
+t x 393.47pt>
+File: output/obj_ackley-d200-s20-n40-all-std-eps-converted-to.pdf Graphic file 
+(type pdf)
+
+<use output/obj_ackley-d200-s20-n40-all-std-eps-converted-to.pdf>
+Overfull \hbox (26.08572pt too wide) in paragraph at lines 355--356
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <output/obj_griewank-d200-s20-n40-all-mean.
+eps>
+(epstopdf)                    date: 2010-12-30 17:26:24
+(epstopdf)                    size: 25343 bytes
+(epstopdf)             Output file: <output/obj_griewank-d200-s20-n40-all-mean-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2010-12-30 17:29:03
+(epstopdf)                    size: 8080 bytes
+(epstopdf)             Command: <repstopdf --outfile=output/obj_griewank-d200-s
+20-n40-all-mean-eps-converted-to.pdf output/obj_griewank-d200-s20-n40-all-mean.
+eps>
+(epstopdf)             \includegraphics on input line 368.
+Package epstopdf Info: Output file is already uptodate.
+
+<output/obj_griewank-d200-s20-n40-all-mean-eps-converted-to.pdf, id=65, 503.882
+5pt x 394.47375pt>
+File: output/obj_griewank-d200-s20-n40-all-mean-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use output/obj_griewank-d200-s20-n40-all-mean-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <output/obj_griewank-d200-s20-n40-all-std.e
+ps>
+(epstopdf)                    date: 2010-12-30 17:26:24
+(epstopdf)                    size: 21052 bytes
+(epstopdf)             Output file: <output/obj_griewank-d200-s20-n40-all-std-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2010-12-30 17:29:04
+(epstopdf)                    size: 8109 bytes
+(epstopdf)             Command: <repstopdf --outfile=output/obj_griewank-d200-s
+20-n40-all-std-eps-converted-to.pdf output/obj_griewank-d200-s20-n40-all-std.ep
+s>
+(epstopdf)             \includegraphics on input line 368.
+Package epstopdf Info: Output file is already uptodate.
+
+<output/obj_griewank-d200-s20-n40-all-std-eps-converted-to.pdf, id=66, 500.8712
+5pt x 393.47pt>
+File: output/obj_griewank-d200-s20-n40-all-std-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use output/obj_griewank-d200-s20-n40-all-std-eps-converted-to.pdf>
+Overfull \hbox (26.08572pt too wide) in paragraph at lines 368--369
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <output/obj_rastrigrin-d200-s20-n40-all-mea
+n.eps>
+(epstopdf)                    date: 2010-12-30 17:26:36
+(epstopdf)                    size: 24660 bytes
+(epstopdf)             Output file: <output/obj_rastrigrin-d200-s20-n40-all-mea
+n-eps-converted-to.pdf>
+(epstopdf)                    date: 2010-12-30 17:29:06
+(epstopdf)                    size: 7926 bytes
+(epstopdf)             Command: <repstopdf --outfile=output/obj_rastrigrin-d200
+-s20-n40-all-mean-eps-converted-to.pdf output/obj_rastrigrin-d200-s20-n40-all-m
+ean.eps>
+(epstopdf)             \includegraphics on input line 381.
+Package epstopdf Info: Output file is already uptodate.
+
+<output/obj_rastrigrin-d200-s20-n40-all-mean-eps-converted-to.pdf, id=67, 503.8
+825pt x 394.47375pt>
+File: output/obj_rastrigrin-d200-s20-n40-all-mean-eps-converted-to.pdf Graphic 
+file (type pdf)
+
+<use output/obj_rastrigrin-d200-s20-n40-all-mean-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <output/obj_rastrigrin-d200-s20-n40-all-std
+.eps>
+(epstopdf)                    date: 2010-12-30 17:26:37
+(epstopdf)                    size: 20829 bytes
+(epstopdf)             Output file: <output/obj_rastrigrin-d200-s20-n40-all-std
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2010-12-30 17:29:07
+(epstopdf)                    size: 7467 bytes
+(epstopdf)             Command: <repstopdf --outfile=output/obj_rastrigrin-d200
+-s20-n40-all-std-eps-converted-to.pdf output/obj_rastrigrin-d200-s20-n40-all-st
+d.eps>
+(epstopdf)             \includegraphics on input line 381.
+Package epstopdf Info: Output file is already uptodate.
+
+<output/obj_rastrigrin-d200-s20-n40-all-std-eps-converted-to.pdf, id=68, 497.86
+pt x 393.47pt>
+File: output/obj_rastrigrin-d200-s20-n40-all-std-eps-converted-to.pdf Graphic f
+ile (type pdf)
+
+<use output/obj_rastrigrin-d200-s20-n40-all-std-eps-converted-to.pdf>
+Overfull \hbox (24.58011pt too wide) in paragraph at lines 381--382
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <output/obj_rosenbrock-d200-s20-n40-all-mea
+n.eps>
+(epstopdf)                    date: 2010-12-30 17:26:28
+(epstopdf)                    size: 24661 bytes
+(epstopdf)             Output file: <output/obj_rosenbrock-d200-s20-n40-all-mea
+n-eps-converted-to.pdf>
+(epstopdf)                    date: 2010-12-30 17:29:08
+(epstopdf)                    size: 8364 bytes
+(epstopdf)             Command: <repstopdf --outfile=output/obj_rosenbrock-d200
+-s20-n40-all-mean-eps-converted-to.pdf output/obj_rosenbrock-d200-s20-n40-all-m
+ean.eps>
+(epstopdf)             \includegraphics on input line 394.
+Package epstopdf Info: Output file is already uptodate.
+
+<output/obj_rosenbrock-d200-s20-n40-all-mean-eps-converted-to.pdf, id=69, 495.8
+525pt x 394.47375pt>
+File: output/obj_rosenbrock-d200-s20-n40-all-mean-eps-converted-to.pdf Graphic 
+file (type pdf)
+
+<use output/obj_rosenbrock-d200-s20-n40-all-mean-eps-converted-to.pdf>
+Package epstopdf Info: Source file: <output/obj_rosenbrock-d200-s20-n40-all-std
+.eps>
+(epstopdf)                    date: 2010-12-30 17:26:29
+(epstopdf)                    size: 20987 bytes
+(epstopdf)             Output file: <output/obj_rosenbrock-d200-s20-n40-all-std
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2010-12-30 17:29:09
+(epstopdf)                    size: 7231 bytes
+(epstopdf)             Command: <repstopdf --outfile=output/obj_rosenbrock-d200
+-s20-n40-all-std-eps-converted-to.pdf output/obj_rosenbrock-d200-s20-n40-all-st
+d.eps>
+(epstopdf)             \includegraphics on input line 394.
+Package epstopdf Info: Output file is already uptodate.
+
+<output/obj_rosenbrock-d200-s20-n40-all-std-eps-converted-to.pdf, id=70, 492.84
+125pt x 402.50375pt>
+File: output/obj_rosenbrock-d200-s20-n40-all-std-eps-converted-to.pdf Graphic f
+ile (type pdf)
+
+<use output/obj_rosenbrock-d200-s20-n40-all-std-eps-converted-to.pdf>
+Overfull \hbox (18.05576pt too wide) in paragraph at lines 394--395
+ [][] 
+ []
+
+(./essay.bbl [5 <./fig-rosenbrock-eps-converted-to.pdf>])
+Overfull \vbox (240.6923pt too high) has occurred while \output is active []
+
+
+[6
+
+ <./output/obj_ackley-d200-s20-n40-all-mean-eps-converted-to.pdf> <./output/obj
+_ackley-d200-s20-n40-all-std-eps-converted-to.pdf>] [7 <./output/obj_griewank-d
+200-s20-n40-all-mean-eps-converted-to.pdf> <./output/obj_griewank-d200-s20-n40-
+all-std-eps-converted-to.pdf> <./output/obj_rastrigrin-d200-s20-n40-all-mean-ep
+s-converted-to.pdf> <./output/obj_rastrigrin-d200-s20-n40-all-std-eps-converted
+-to.pdf>] [8 <./output/obj_rosenbrock-d200-s20-n40-all-mean-eps-converted-to.pd
+f> <./output/obj_rosenbrock-d200-s20-n40-all-std-eps-converted-to.pdf>]
+(./essay.aux) ) 
+Here is how much of TeX's memory you used:
+ 3295 strings out of 493738
+ 42560 string characters out of 3148797
+ 112079 words of memory out of 3000000
+ 6470 multiletter control sequences out of 15000+200000
+ 49605 words of font info for 66 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 39i,10n,26p,694b,404s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts
+/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr
+/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmti9.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/s
+hare/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-dist/font
+s/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri
+8a.pfb>
+Output written on essay.pdf (8 pages, 1574415 bytes).
+PDF statistics:
+ 177 PDF objects out of 1000 (max. 8388607)
+ 123 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+

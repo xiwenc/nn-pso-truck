@@ -1,0 +1,26 @@
+#ifndef _DEFINITIONS_
+#define _DEFINITIONS_
+
+// Debugging
+#define debugging true
+#define DEBUGLEVEL 0 // > 1 is more details
+
+// Neural Network
+#define IN_NODES 10
+#define HIDDEN_LAYERS 10
+#define NODES_PER_LAYER 10
+#define OUT_NODES 2
+#define TIME_STEPS 10
+#define ITERATIONS 100
+
+// Particles
+#define NPARTICLES 20
+
+#define Vmax 1.0
+#define Xmax 10.0
+
+#define inertia 0.8 //how much is the particle influenced by it's current velocity
+#define memory 2.0  //how much is the particle influenced by it's personal best
+#define social 2.0  //how much is the particle influenced by the local/global best
+
+#endif

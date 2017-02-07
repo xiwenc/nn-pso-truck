@@ -1,0 +1,4 @@
+Just run `run.sh` to generate the results in output/
+
+You'll need `matlab` present in your $PATH
+
